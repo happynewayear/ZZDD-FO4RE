@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "cgrtdx",
+  "description": "cgrtdx",
   "keywords": [
-    "vmess or vles"
+    "cgrtdx"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/happynewayear/ZZDD-FO4RE",
+  "repository": "https://github.com/happynewayear/ZZDD-FO4RE",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
